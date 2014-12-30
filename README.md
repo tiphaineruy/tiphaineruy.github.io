@@ -1,2 +1,2 @@
-TiphaineRuy.github.io
+tiphaineruy.github.io
 =====================
